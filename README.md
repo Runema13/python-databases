@@ -5,7 +5,7 @@ Exercícios e anotações do curso [Python for Everybody – Using Databases wit
 ---
 
 ## 📜 Certificado
-🔗 [Ver certificado no Coursera]([(https://www.coursera.org/account/accomplishments/verify/YZWMC8QQ6P91)])
+🔗 [Ver certificado no Coursera](https://www.coursera.org/account/accomplishments/verify/YZWMC8QQ6P91)
 
 ---
 
