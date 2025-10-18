@@ -1,0 +1,5 @@
+SELECT User.name, Course.title, Member.role
+FROM Member
+JOIN User ON Member.user_id = User.id
+JOIN Course ON Member.course_id = Course.id
+ORDER BY Course.title, Member.role DESC, User.name
