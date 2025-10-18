@@ -5,7 +5,7 @@ Exercícios e anotações do curso [Python for Everybody – Using Databases wit
 ---
 
 ## 📜 Certificado
-🔗 [Ver certificado no Coursera](COLE_AQUI_SEU_LINK_QUANDO_CONCLUIR)
+🔗 [Ver certificado no Coursera]([COLE_AQUI_SEU_LINK_QUANDO_CONCLUIR](https://www.coursera.org/account/accomplishments/verify/YZWMC8QQ6P91))
 
 ---
 
@@ -17,8 +17,8 @@ Exercícios e anotações do curso [Python for Everybody – Using Databases wit
 ## 📚 Módulos do curso
 - ✅ Capítulo 14 – Programação Orientada a Objetos  
 - ✅ Capítulo 15 – Bancos de dados relacionais e SQL  
-- ⬜ Capítulo 16 – Geocodificação e visualização  
-- ⬜ Projeto final  
+- ✅ Capítulo 16 – Geocodificação e visualização  
+
 
 Legenda:  
 ✅ = concluído  
